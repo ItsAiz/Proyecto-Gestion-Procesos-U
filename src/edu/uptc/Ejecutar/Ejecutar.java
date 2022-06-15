@@ -8,6 +8,5 @@ public class Ejecutar {
 		VentanaPrincipal ventanaPrincipal=new VentanaPrincipal();
 		Control control=new Control(ventanaPrincipal);
 		ventanaPrincipal.iniciarPrograma(control);
-		
 	}
 }
