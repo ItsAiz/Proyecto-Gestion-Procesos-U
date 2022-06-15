@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="edu.uptc.Modelo.Coordinador" project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Modelo/Coordinador.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="136" x="4123" y="2174"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="edu.uptc.Modelo.Persona" project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Modelo/Persona.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="213" x="4341" y="2174"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="edu.uptc.Modelo.Gestion" project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Modelo/Gestion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="909" width="464" x="4102" y="1153"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="edu.uptc.Vista.PanelDocenteActividadesEstudianteSeleccionado" 
+    project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Vista/PanelDocenteActividadesEstudianteSeleccionado.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="306" x="854" y="-349"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="edu.uptc.Vista.PanelOpcionesEstudiante" project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Vista/PanelOpcionesEstudiante.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="181" x="2553" y="-349"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="edu.uptc.Vista.PanelEstudianteListaActividadesConNota" 
+    project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Vista/PanelEstudianteListaActividadesConNota.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="225" width="258" x="144" y="-349"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="edu.uptc.Persisitencia.Persistencia" project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Persisitencia/Persistencia.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="252" x="4606" y="1153"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="edu.uptc.Vista.PanelCoordinadorSeleccionEstudiantes" 
+    project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Vista/PanelCoordinadorSeleccionEstudiantes.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="441" width="249" x="1452" y="-349"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="edu.uptc.Vista.PanelCoordinadorDocentesSeleccionables" 
+    project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Vista/PanelCoordinadorDocentesSeleccionables.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="279" width="267" x="4335" y="-349"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="edu.uptc.Vista.PanelCoordinadorListaDocentes" project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Vista/PanelCoordinadorListaDocentes.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="333" width="226" x="3269" y="-349"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="edu.uptc.Vista.PanelCoordinadorCRUMaterias" project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Vista/PanelCoordinadorCRUMaterias.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="207" width="200" x="2027" y="-349"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="edu.uptc.Control.Control" project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Control/Control.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="199" x="3999" y="762"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="13" language="java" name="edu.uptc.Modelo.Programa" project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Modelo/Programa.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="225" x="4617" y="2920"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="14" language="java" name="edu.uptc.Vista.Panel_IniciarSesion" project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Vista/Panel_IniciarSesion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="185" x="2774" y="-349"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="edu.uptc.Vista.PanelCoordinadorCrearDocentes" project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Vista/PanelCoordinadorCrearDocentes.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="639" width="247" x="4986" y="-349"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="edu.uptc.Vista.PanelDocenteListaEstudiantes" project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Vista/PanelDocenteListaEstudiantes.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="279" width="226" x="3535" y="-349"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="edu.uptc.Vista.PanelDocenteAsignarActividad" project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Vista/PanelDocenteAsignarActividad.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="585" width="207" x="4088" y="-349"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="edu.uptc.Vista.PanelCoordinadorListaMaterias" project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Vista/PanelCoordinadorListaMaterias.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="423" width="246" x="1741" y="-349"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="edu.uptc.Modelo.Estudiante" project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Modelo/Estudiante.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="282" x="4251" y="2601"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="edu.uptc.Vista.PanelCoordinadorCRUDDocentes" project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Vista/PanelCoordinadorCRUDDocentes.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="225" width="212" x="1200" y="-349"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="edu.uptc.Modelo.Actividad" project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Modelo/Actividad.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="459" width="236" x="4041" y="2920"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="edu.uptc.Vista.Fondo" project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Vista/Fondo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="124" x="442" y="-349"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="edu.uptc.Vista.PanelDocenteCalificarActividadEstudiante" 
+    project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Vista/PanelDocenteCalificarActividadEstudiante.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="369" width="262" x="4663" y="-349"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="edu.uptc.Vista.PanelDocenteListaMaterias" project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Vista/PanelDocenteListaMaterias.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="369" width="246" x="2267" y="-349"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="25" language="java" name="edu.uptc.Vista.Acciones" project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Vista/Acciones.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="981" width="307" x="2999" y="1153"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="26" language="java" name="edu.uptc.Vista.PanelEstudianteResponderActividad" 
+    project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Vista/PanelEstudianteResponderActividad.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="315" width="230" x="2999" y="-349"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="27" language="java" name="edu.uptc.Modelo.Area" project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Modelo/Area.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="150" x="5030" y="2920"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="28" language="java" name="edu.uptc.Modelo.Docente" project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Modelo/Docente.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="268" x="4657" y="2601"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="edu.uptc.Vista.PanelEstudianteListaActividades" 
+    project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Vista/PanelEstudianteListaActividades.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="279" width="226" x="3801" y="-349"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="edu.uptc.Vista.VentanaPrincipal" project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Vista/VentanaPrincipal.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="603" width="287" x="3535" y="-992"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="edu.uptc.Modelo.Materia" project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Modelo/Materia.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="235" x="4657" y="2174"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="edu.uptc.Ejecutar.Ejecutar" project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Ejecutar/Ejecutar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="4623" y="-1131"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="edu.uptc.Vista.PanelCoordinadorCrearMaterias" project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Vista/PanelCoordinadorCrearMaterias.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="1071" width="324" x="5273" y="-349"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="edu.uptc.Vista.PanelDocenteOpciones" project="ProyectoSegundo50PrograII" 
+    file="/ProyectoSegundo50PrograII/src/edu/uptc/Vista/PanelDocenteOpciones.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="187" x="627" y="-349"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <dependency id="35">    
+    <bendpoint x="2642" y="762"/>    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <dependency id="36">    
+    <bendpoint x="4584" y="2174"/>    
+    <bendpoint x="4584" y="2601"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <dependency id="37">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="38">    
+    <bendpoint x="4888" y="1153"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="31"/>  
+  </dependency>  
+  <association id="39">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="40" name="actividades"/>      
+      <multiplicity id="41" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="42">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="43" name="coordinador"/>      
+      <multiplicity id="44" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="45">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="46" name="panelCoordinadorSeleccionEstudiantes"/>      
+      <multiplicity id="47" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="48">    
+    <bendpoint x="4270" y="762"/>    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <dependency id="49">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="30"/>  
+  </dependency>  
+  <dependency id="50">    
+    <bendpoint x="3143" y="762"/>    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <dependency id="51">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="52">    
+    <bendpoint x="3409" y="762"/>    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <dependency id="53">    
+    <bendpoint x="2785" y="762"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <association id="54">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="55" name="panelDocenteActividadesEstudianteSeleccionado"/>      
+      <multiplicity id="56" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="57">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <generalization id="58">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <association id="59">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="60" name="materias"/>      
+      <multiplicity id="61" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="62">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="63" name="panelDocenteListaMaterias"/>      
+      <multiplicity id="64" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="65">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="66">    
+    <bendpoint x="1936" y="762"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <association id="67">    
+    <bendpoint x="4955" y="2601"/>    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="68" name="nombre"/>      
+      <multiplicity id="69" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="70">    
+    <bendpoint x="4249" y="762"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <dependency id="71">    
+    <bendpoint x="5627" y="-349"/>    
+    <bendpoint x="5418" y="762"/>    
+    <bendpoint x="5210" y="1153"/>    
+    <bendpoint x="5039" y="2174"/>    
+    <bendpoint x="5018" y="2601"/>    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <association id="72">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="73" name="panelDocenteCalificarActividadEstudiante"/>      
+      <multiplicity id="74" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="75">    
+    <bendpoint x="4312" y="762"/>    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <association id="76">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="77" name="panelEstudianteResponderActividad"/>      
+      <multiplicity id="78" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="79">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="80" name="fondo"/>      
+      <multiplicity id="81" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="82">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="83" name="panelCoordinadorListaMaterias"/>      
+      <multiplicity id="84" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="85">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <association id="86">    
+    <bendpoint x="4626" y="2601"/>    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="87" name="programa"/>      
+      <multiplicity id="88" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="89">    
+    <bendpoint x="4934" y="1153"/>    
+    <bendpoint x="4997" y="2174"/>    
+    <bendpoint x="5039" y="2601"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <association id="90">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="91" name="panelDocenteListaEstudiantes"/>      
+      <multiplicity id="92" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="93">    
+    <bendpoint x="4605" y="2174"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="94" name="docentes"/>      
+      <multiplicity id="95" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="96">    
+    <bendpoint x="4029" y="2174"/>    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <dependency id="97">    
+    <bendpoint x="5648" y="-349"/>    
+    <bendpoint x="5648" y="762"/>    
+    <bendpoint x="5648" y="1153"/>    
+    <bendpoint x="5648" y="2174"/>    
+    <bendpoint x="5648" y="2601"/>    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <dependency id="98">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="99">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <association id="100">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="101" name="panelDocenteAsignarActividad"/>      
+      <multiplicity id="102" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="103">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="104" name="panelOpcionesEstudiante"/>      
+      <multiplicity id="105" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="106">    
+    <bendpoint x="5231" y="762"/>    
+    <bendpoint x="5231" y="1153"/>    
+    <bendpoint x="5231" y="2174"/>    
+    <bendpoint x="5231" y="2601"/>    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <dependency id="107">    
+    <bendpoint x="4976" y="762"/>    
+    <bendpoint x="4976" y="1153"/>    
+    <bendpoint x="4976" y="2174"/>    
+    <bendpoint x="4976" y="2601"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <association id="108">    
+    <bendpoint x="4563" y="2601"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="109" name="programa"/>      
+      <multiplicity id="110" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="111">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="112" name="panel_IniciarSesion"/>      
+      <multiplicity id="113" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="114">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="115" name="gestion"/>      
+      <multiplicity id="116" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="117">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="118" name="area"/>      
+      <multiplicity id="119" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="120">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <dependency id="121">    
+    <bendpoint x="4913" y="1153"/>    
+    <bendpoint x="4943" y="2174"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <dependency id="122">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="123">    
+    <bendpoint x="2379" y="762"/>    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <dependency id="124">    
+    <bendpoint x="1822" y="762"/>    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <association id="125">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="126" name="acciones"/>      
+      <multiplicity id="127" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="128">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="129" name="estudiantes"/>      
+      <multiplicity id="130" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="131">    
+    <bendpoint x="2522" y="762"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <dependency id="132">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="133">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="134">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="135">    
+    <bendpoint x="4228" y="762"/>    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <association id="136">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="137" name="panelCoordinadorDocentesSeleccionables"/>      
+      <multiplicity id="138" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="139">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="140" name="panelDocenteOpciones"/>      
+      <multiplicity id="141" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="142">    
+    <bendpoint x="4632" y="-992"/>    
+    <bendpoint x="4632" y="-349"/>    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="143">    
+    <bendpoint x="5078" y="762"/>    
+    <bendpoint x="5039" y="1153"/>    
+    <bendpoint x="5018" y="2174"/>    
+    <bendpoint x="4997" y="2601"/>    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="144">    
+    <bendpoint x="2109" y="762"/>    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <dependency id="145">    
+    <bendpoint x="4071" y="1153"/>    
+    <bendpoint x="4071" y="2174"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <dependency id="146">    
+    <bendpoint x="4050" y="2174"/>    
+    <bendpoint x="4050" y="2601"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <realization id="147">    
+    <bendpoint x="596" y="-349"/>    
+    <bendpoint x="596" y="762"/>    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="25"/>  
+  </realization>  
+  <dependency id="148">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="149">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <association id="150">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="151" name="panelCoordinadorCrearMaterias"/>      
+      <multiplicity id="152" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="153">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <association id="154">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="155" name="panelCoordinadorCRUDDocentes"/>      
+      <multiplicity id="156" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="157">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <association id="158">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="159" name="persistencia"/>      
+      <multiplicity id="160" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="161">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="162">    
+    <bendpoint x="4092" y="2174"/>    
+    <bendpoint x="4092" y="2601"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <association id="163">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="164" name="panelEstudianteListaActividadesConNota"/>      
+      <multiplicity id="165" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="166">    
+    <bendpoint x="3276" y="762"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <association id="167">    
+    <bendpoint x="4289" y="2174"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="168" name="estudiantes"/>      
+      <multiplicity id="169" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="170">    
+    <bendpoint x="4955" y="-349"/>    
+    <bendpoint x="4955" y="762"/>    
+    <bendpoint x="4955" y="1153"/>    
+    <bendpoint x="4626" y="2174"/>    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <dependency id="171">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <association id="172">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="173" name="docente"/>      
+      <multiplicity id="174" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="175">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <association id="176">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="177" name="panelCoordinadorCrearDocentes"/>      
+      <multiplicity id="178" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="179">    
+    <bendpoint x="2896" y="762"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <dependency id="180">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="181">    
+    <bendpoint x="4008" y="1153"/>    
+    <bendpoint x="4008" y="2174"/>    
+    <bendpoint x="4008" y="2601"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="182">    
+    <bendpoint x="5057" y="762"/>    
+    <bendpoint x="5060" y="1153"/>    
+    <bendpoint x="5060" y="2174"/>    
+    <bendpoint x="5060" y="2601"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <dependency id="183">    
+    <bendpoint x="2235" y="762"/>    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <dependency id="184">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="185">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="31"/>  
+  </dependency>  
+  <dependency id="186">    
+    <bendpoint x="4922" y="2174"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <dependency id="187">    
+    <bendpoint x="4291" y="762"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <association id="188">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="189" name="panelEstudianteListaActividades"/>      
+      <multiplicity id="190" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="191">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="192" name="panelCoordinadorListaDocentes"/>      
+      <multiplicity id="193" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="194">    
+    <bendpoint x="4310" y="2174"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <dependency id="195">    
+    <bendpoint x="3008" y="762"/>    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <association id="196">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="197" name="panelCoordinadorCRUMaterias"/>      
+      <multiplicity id="198" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="199">    
+    <bendpoint x="4057" y="-349"/>    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
